@@ -10,7 +10,7 @@
 
 ## 📌 Objective
 
-Replicate the **Course Browse Page** from the provided Figma design using **React + TailwindCSS**, ensuring:
+Building a **Course Browse Page** using **React + TailwindCSS**,
 
 - Pixel-accurate layout
 - Responsive design (Desktop & Mobile)
@@ -18,9 +18,6 @@ Replicate the **Course Browse Page** from the provided Figma design using **Reac
 - Clean, modular component-based architecture
 - Creative UI enhancements
 
-Figma Reference: Course Browse Page (Provided)
-
----
 
 ## 🚀 Tech Stack Used
 
@@ -35,6 +32,29 @@ Figma Reference: Course Browse Page (Provided)
 ---
 
 ## 📂 Project Structure
+
+
+├── components/
+│ ├── AfterTimeCards.tsx
+│ ├── AgeSelector.tsx
+│ ├── Ballpit.jsx
+│ ├── BouncingIcon.tsx
+│ ├── CourseCard.tsx
+│ ├── FeaturedCourses.tsx
+│ ├── FilterWithTime.tsx
+│ ├── Footer.tsx
+│ ├── Header.tsx
+│ ├── Hero.tsx
+│ ├── NewLaunches.tsx
+│ ├── PopularCategories.tsx
+│ ├── RowCourseCard.tsx
+│ ├── SearchBar.tsx
+│ ├── StatsBadge.tsx
+│ ├── TeacherCard.tsx
+│ ├── TeacherCourses.tsx
+│ ├── TextPressure.jsx
+│ ├── TopTeachers.tsx
+│ ├── WebinarCourses.tsx
 
 ---
 
@@ -70,8 +90,6 @@ Responsive strategies:
 ---
 
 ## ✨ Creative Enhancements Added
-
-Beyond the base Figma implementation, I added:
 
 - 🎬 Subtle hover animations on cards
 - ✨ Micro-interactions using Framer Motion
