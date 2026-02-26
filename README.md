@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Objective
+## 1. Objective
 
 Building a **Course Browse Page** using **React + TailwindCSS**,
 
@@ -19,31 +19,31 @@ Building a **Course Browse Page** using **React + TailwindCSS**,
 - Creative UI enhancements
 
 
-## 🚀 Tech Stack Used
+## 2. Tech Stack Used
 
-- ⚛️ **React (Vite)**
-- 🔷 **TypeScript**
-- 🎨 **Tailwind CSS**
-- 🧩 **shadcn/ui**
-- 🎬 **Framer Motion**
-- 🎯 **Lucide React (icons)**
-- ▲ **Vercel (Deployment)**
+-  **React (Vite)**
+-  **TypeScript**
+-  **Tailwind CSS**
+-  **shadcn/ui**
+-  **Framer Motion**
+-  **Lucide React (icons)**
+-  **Vercel (Deployment)**
 
 ---
 
-## 🖥️ Features Implemented
+## 3. Features Implemented
 
-### ✅ Layout Replication
-- Accurate spacing and structure as per Figma
+###  Layout Replication
+- Accurate spacing and structure 
 - Component-based architecture
 - Clean semantic layout
 
-### ✅ Fully Responsive Design
+###  Fully Responsive Design
 Tested at:
-- 📱 Mobile (~375px)
-- 💻 Desktop (~1440px)
+-  Mobile (~375px)
+-  Desktop (~1440px)
 
-Responsive strategies:
+### Responsive strategies:
 - Tailwind Grid & Flex layouts
 - Adaptive typography
 - Responsive card wrapping
@@ -51,7 +51,7 @@ Responsive strategies:
 
 ---
 
-### ✅ Interactive Elements
+### Interactive Elements
 
 - Hover effects on cards
 - Animated icons
@@ -62,23 +62,21 @@ Responsive strategies:
 
 ---
 
-## ✨ Creative Enhancements Added
+## 4. Creative Enhancements Added
 
-- 🎬 Subtle hover animations on cards
-- ✨ Micro-interactions using Framer Motion
-- 🧠 Improved responsive grid logic
-- 🎯 Animated UI elements (Bouncing icons, dynamic badges)
-- 💎 Enhanced visual polish (shadows, rounded cards, glass effects)
-- 📱 Better mobile wrapping behavior for teacher and course cards
+-  Subtle hover animations on cards
+-  Micro-interactions using Framer Motion
+-  Improved responsive grid logic
+-  Animated UI elements (Bouncing icons, dynamic badges)
+-  Enhanced visual polish (shadows, rounded cards, glass effects)
+-  Better mobile wrapping behavior for teacher and course cards
 
 These enhancements improve usability and visual appeal while maintaining design intent.
 
----
-
 
 ---
 
-## 📸 Screenshots
+## 5. Screenshots
 
 -- Desktop View
 
@@ -97,9 +95,9 @@ These enhancements improve usability and visual appeal while maintaining design 
 
 ---
 
-## 🛠️ How to Run Locally
+## 6. How to Run Locally
 
-### 1️⃣ Clone the repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/yourusername/project-name.git
