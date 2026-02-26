@@ -31,33 +31,6 @@ Building a **Course Browse Page** using **React + TailwindCSS**,
 
 ---
 
-## 📂 Project Structure
-
-
-├── components/
-│ ├── AfterTimeCards.tsx
-│ ├── AgeSelector.tsx
-│ ├── Ballpit.jsx
-│ ├── BouncingIcon.tsx
-│ ├── CourseCard.tsx
-│ ├── FeaturedCourses.tsx
-│ ├── FilterWithTime.tsx
-│ ├── Footer.tsx
-│ ├── Header.tsx
-│ ├── Hero.tsx
-│ ├── NewLaunches.tsx
-│ ├── PopularCategories.tsx
-│ ├── RowCourseCard.tsx
-│ ├── SearchBar.tsx
-│ ├── StatsBadge.tsx
-│ ├── TeacherCard.tsx
-│ ├── TeacherCourses.tsx
-│ ├── TextPressure.jsx
-│ ├── TopTeachers.tsx
-│ ├── WebinarCourses.tsx
-
----
-
 ## 🖥️ Features Implemented
 
 ### ✅ Layout Replication
