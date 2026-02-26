@@ -1,4 +1,4 @@
-# UndoSchool – Course Browse Page   
+<img width="1895" height="863" alt="image" src="https://github.com/user-attachments/assets/bd4fee27-165a-4d04-8c2f-843c2eb62095" /><img width="1895" height="863" alt="image" src="https://github.com/user-attachments/assets/bd4fee27-165a-4d04-8c2f-843c2eb62095" /># UndoSchool – Course Browse Page   
 
 ---
 
@@ -73,6 +73,36 @@ Responsive strategies:
 
 These enhancements improve usability and visual appeal while maintaining design intent.
 
+---
+
+
+---
+
+## 📸 Screenshots
+
+### 🖥️ Desktop View (~1440px)
+
+![Desktop View](<img width="1895" height="863" alt="image" src="https://github.com/user-attachments/assets/e41b1fab-300e-4a17-a96c-8cec7f0553f0" />)
+
+---
+
+### 📱 Mobile View (~375px)
+
+![Mobile View](./screenshots/mobile.png)
+
+---
+
+### 👩‍🏫 Top Teachers Section
+
+![Teachers Section](./screenshots/teachers-section.png)
+
+---
+
+### 📚 Course Cards Section
+
+![Courses Section](./screenshots/courses-section.png)
+
+---
 ---
 
 ## 🛠️ How to Run Locally
